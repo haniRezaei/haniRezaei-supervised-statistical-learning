@@ -1,4 +1,4 @@
-# haniRezaei-supervised-statistical-learning
+# KNN, Naive Bayes
 This project analyzes the South African Heart Disease dataset to predict coronary heart disease (CHD) based on various risk factors like age, tobacco use, cholesterol levels, and family history. Three different machine learning models are implemented: Logistic Regression, Naive Bayes, and k-Nearest Neighbors (kNN). The project also employs cross-validation to evaluate model performance.
 
 * Data Visualization: A pairs plot is generated to visualize the relationships between different features and CHD.
